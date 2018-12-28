@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import MapContainer from './components/MapContainer'
 
 class App extends Component {
   render() {
     return (
-      <div className="app">hi</div>
+      <MapContainer />
     );
   }
 }
