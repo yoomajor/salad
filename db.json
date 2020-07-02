@@ -1,9 +1,8 @@
 {
   "data": [
   {
-    "id": "mentor1",
-    "name": "mentor1",
-    "lastNAme": "KIM",
+    "Name": "mentor1",
+    "lastName": "KIM",
     "firstName": "JAESUNG",
     "desc": "K리그 미드필더의 교과서",
     "career": [
@@ -17,9 +16,8 @@
     "location": "서울"
   },
   {
-    "id": "mentor2",
-    "name": "mentor2",
-    "lastNAme": "RYU",
+    "Name": "mentor2",
+    "lastName": "RYU",
     "firstName": "JAEHOON",
     "desc": "플래티넘수문장",
     "career": [
@@ -32,9 +30,8 @@
     "location": "경기"
   },
   {
-    "id": "mentor3",
-    "name": "mentor3",
-    "lastNAme": "LEE",
+    "Name": "mentor3",
+    "lastName": "LEE",
     "firstName": "WOOCHEOL",
     "desc": "우정머 D:",
     "career": [
