@@ -1,7 +1,8 @@
 {
   "data": [
   {
-    "Name": "mentor1",
+  
+    "name": "mentor1",
     "lastName": "KIM",
     "firstName": "JAESUNG",
     "desc": "K리그 미드필더의 교과서",
@@ -16,7 +17,7 @@
     "location": "서울"
   },
   {
-    "Name": "mentor2",
+    "name": "mentor2",
     "lastName": "RYU",
     "firstName": "JAEHOON",
     "desc": "플래티넘수문장",
@@ -30,7 +31,7 @@
     "location": "경기"
   },
   {
-    "Name": "mentor3",
+    "name": "mentor3",
     "lastName": "LEE",
     "firstName": "WOOCHEOL",
     "desc": "우정머 D:",
