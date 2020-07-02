@@ -1,4 +1,5 @@
-[
+{
+  "data": [
   {
     "name": "mentor1",
     "lastNAme": "KIM",
@@ -43,3 +44,4 @@
     "location": "서울"
   }
 ]
+}
