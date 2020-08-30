@@ -1,46 +1,46 @@
 {
   "data": [
   {
-    id: 'DHK3768',
-    img: 'https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3768.jpg',
-    title: '0번 미디어 제목',
-    date: '2020-01-01',
-    view: '458',
-    next: 'DHK3488'
+    "id": "DHK3768",
+    "img": "https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3768.jpg",
+    "title": "0번 미디어 제목",
+    "date": "2020-01-01",
+    "view": "458",
+    "next": "DHK3488"
   },
   {
-    id: 'DHK3488',
-    img: 'https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3488.jpg',
-    title: '1번 미디어 제목',
-    date: '2020-01-01',
-    view: '100',
-    prev: 'DHK3768',
-    next: 'DHK3623'
+    "id": "DHK3488",
+    "img": "https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3488.jpg",
+    "title": "1번 미디어 제목",
+    "date": "2020-01-01",
+    "view": "100",
+    "prev": "DHK3768",
+    "next": "DHK3623"
   },
   {
-    id: 'DHK3623',
-    img: 'https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3623.jpg',
-    title: '2번 미디어 제목',
-    date: '2020-01-01',
-    view: '211',
-    prev: 'DHK3488',
-    next: 'DHK3653'
+    "id": "DHK3623",
+    "img": "https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3623.jpg",
+    "title": "2번 미디어 제목",
+    "date": "2020-01-01",
+    "view": "211",
+    "prev": "DHK3488",
+    "next": "DHK3653"
   },
   {
-    id: 'DHK3653',
-    img: 'https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3653.jpg',
-    title: '3번 미디어 제목',
-    date: '2020-01-01',
-    view: '33',
-    prev: 'DHK3623',
-    next: 'DHK3676'
+    "id": "DHK3653",
+    "img": "https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3653.jpg",
+    "title": "3번 미디어 제목",
+    "date": "2020-01-01",
+    "view": "33",
+    "prev": "DHK3623",
+    "next": "DHK3676"
   },
   {
-    id: 'DHK3676',
-    img: 'https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3676.jpg',
-    title: '4번 미디어 제목',
-    date: '2020-01-01',
-    view: '79',
-    prev: 'DHK3653'
-  }
+    "id": "DHK3676",
+    "img": "https://gangwon-fc.com/wp-content/uploads/2020/08/DHK3676.jpg",
+    "title": "4번 미디어 제목",
+    "date": "2020-01-01",
+    "view": "79",
+    "prev": "DHK3653"
+  }]
 }
