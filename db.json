@@ -2,9 +2,8 @@
   "data": [
   {
   
-    "name": "mentor1",
-    "lastName": "KIM",
-    "firstName": "JAESUNG",
+    "id": "mentor1",
+    "name": "김재성",
     "desc": "K리그 미드필더의 교과서",
     "career": [
       "현 인천유나이티드 코치",
@@ -12,15 +11,14 @@
       "기타사항1",
       "기타사항2"
     ],
-    "intro": "소개텍스트가 또 나오는게 있나요",
+    "intro": "소개텍스트 intro",
     "gender": "m",
     "location": "서울"
   },
   {
-    "name": "mentor2",
-    "lastName": "RYU",
-    "firstName": "JAEHOON",
-    "desc": "플래티넘수문장",
+    "id": "mentor2",
+    "name": "류재훈",
+    "desc": "소개글2",
     "career": [
       "현 더스포츠",
       "전 스트로우",
@@ -32,10 +30,9 @@
     "location": "경기"
   },
   {
-    "name": "mentor3",
-    "lastName": "LEE",
-    "firstName": "WOOCHEOL",
-    "desc": "우정머 D:",
+    "id": "mentor3",
+    "name": "이우철",
+    "desc": "소개글3",
     "career": [
       "현 인천유나이티드 코치",
       "전 전남드래곤즈 선수",
